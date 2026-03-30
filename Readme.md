@@ -32,6 +32,6 @@ Hands-on project building digital literacy skills through five tasks: Canva info
 
 - **Github Profile link**: https://github.com/HarshCh16
 - **Kaggle Profile link**: https://www.kaggle.com/harsh1610
-- **Linkedin Profile link**: 
+- **Linkedin Profile link**: https://www.linkedin.com/in/harsh-chauhan-86a246318/
 - **Digital Literacy Awareness Quiz(Google Forms)**: [Take Quiz](https://docs.google.com/forms/d/e/1FAIpQLSe75EmuFEJEukXo_GG5I-dBnXk_krLyipsVbJkp3xW-KOxSOg/viewform?usp=publish-editor)  
 - **GitHub Repo**: https://github.com/HarshCh16/Digital-Literacy-Project
